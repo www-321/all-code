@@ -11,7 +11,7 @@
     <groupId>com.example</groupId>
     <artifactId>es-template</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>es-template</name>
+    <name>all-code</name>
     <description>Demo project for Spring Boot</description>
 
     <properties>
